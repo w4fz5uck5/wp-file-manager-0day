@@ -5,4 +5,4 @@ References:<br>
 https://www.exploit-db.com/exploits/46481<br>
 https://www.exploit-db.com/exploits/46539<br>
 https://twitter.com/w4fz5uck5/status/1303396627198152707<br>
-
+https://wpvulndb.com/vulnerabilities/10389
